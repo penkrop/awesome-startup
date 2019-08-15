@@ -10,12 +10,14 @@ The list of interesting resources
 5. [Battery Ventures](https://www.battery.com/)
 6. [Benchmark](http://www.benchmark.com/)
 7. [Bessemer Venture Partners](https://www.bvp.com/)
+8. [DAG Ventures](https://www.dagventures.com/)
+9. [Digital Sky Technologies](http://mail.ru)
 
 ### Early Stage Venture Capital firms
 1. [August Capital](http://www.augustcap.com/)
 2. [Austin Ventures](http://www.austinventures.com/)
 3. [Balderton Capital](https://www.balderton.com/)
-4. []()
+4. [Clearstone Venture Partners](http://www.clearstone.com/)
 
 ## 2. News, Media & etc.
 1. [TechCrunch](https://techcrunch.com)
