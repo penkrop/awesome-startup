@@ -39,3 +39,4 @@ The list of interesting resources
 
 ## 3. Articles should read
 1. [Why Most VC’s Don’t Sign NDAs](https://feld.com/archives/2006/02/why-most-vcs-dont-sign-ndas.html)
+2. [The Venture Capitalist Wishlist](https://guykawasaki.com/the_venture_cap-2/)
