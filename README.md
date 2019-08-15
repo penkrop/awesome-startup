@@ -35,3 +35,7 @@ The list of interesting resources
 ## 2. News, Media & etc.
 1. [TechCrunch](https://techcrunch.com)
 2. [The Next Web (aka TNW)](https://thenextweb.com/)
+
+
+## 3. Articles should read
+1. [Why Most VC’s Don’t Sign NDAs](https://feld.com/archives/2006/02/why-most-vcs-dont-sign-ndas.html)
