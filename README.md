@@ -12,6 +12,19 @@ The list of interesting resources
 7. [Bessemer Venture Partners](https://www.bvp.com/)
 8. [DAG Ventures](https://www.dagventures.com/)
 9. [Digital Sky Technologies](http://mail.ru)
+10.[Draper Fisher Jurvetson](https://www.dfj.com/)
+11.[Foundation Capital](https://foundationcapital.com/)
+12.[Founders Fund](https://foundersfund.com/)
+13.[General Catalyst](https://www.generalcatalyst.com/)
+14.[GGV Capital](https://www.ggvc.com/)
+15.[GV](https://www.gv.com/)
+16.[Insight Partners](https://www.insightpartners.com/)
+
+
+### Venture Capital Firms
+1. [Granite Ventures](https://granitevc.com/)
+2. [Initialized Capital](https://initialized.com/)
+3. [Jerusalem Venture Partners](https://www.jvpvc.com/)
 
 ### Early Stage Venture Capital firms
 1. [August Capital](http://www.augustcap.com/)
